@@ -9,7 +9,7 @@ import cgitb
 cgitb.enable()
 
 # global variables
-speriod=(15*60)-1
+# speriod=(15*60)-1
 dbname='/var/www/creeklog.db'
 
 # print the HTTP header
